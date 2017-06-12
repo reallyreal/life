@@ -2,7 +2,7 @@
 All about our daily lives
 
 ### License ?
-Let's see if anyone can comply the rules with the license. I am sure no one will. I will just put the GNU something just to look professional. xD       
+Let's see if anyone can comply the rules with the license. I am sure no one will. I will just put the GPL something just to look professional. xD       
 
 ### What do we do here ?
 This is the place where you nag about daily lives.       
