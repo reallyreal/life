@@ -48,8 +48,8 @@
             "showButtons": true,
             "showArrow": true
           },
-          "title": "life for<br>developers",
-          "text": "Your life matters to all.<br>Change your dev life now.<br>",
+          "title": "life for<br>devs",
+          "text": "Your life matters to all.<br>Change your developer life now.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://github.com/reallyreal/life\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contribute now</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://google.com/ncr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_styles": {
             "H1": {
