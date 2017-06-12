@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+#header1-0 H1 {
+  font-size: 72px;
+  text-align: left;
+  font-family: 'Indie Flower', cursive;
+}
+#header1-0 P {
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts3-1 STRONG {
+  font-size: 25px;
+}
+#contacts3-1 P {
+  font-size: 14px;
+}
